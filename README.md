@@ -6,5 +6,8 @@ npx hardhat run ./src/index.ts --network polygon_mumbai
 ```
 
 # Run the admin UI
+cd Smart-Auth-frontend
+yarn 
+yarn dev 
 
 ```
